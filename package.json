@@ -1,0 +1,20 @@
+{
+  "name": "generator-angular-phaser",
+  "version": "0.1.0",
+  "description": "A generator for angular phaser projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Gaetan Windels",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  },
+  "files": [
+    "generators/app"
+  ]
+}
